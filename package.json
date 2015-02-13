@@ -11,14 +11,15 @@
   "license": "MIT",
   "repository": "component/remotes.js",
   "dependencies": {
+    "bower": "^1.3.12",
+    "co": "^3",
+    "cogent": "git://github.com/timaschew/cogent#fix-redirects",
+    "component-consoler": "^2.0.0",
+    "component-validator": "^1.0.0",
     "debug": "*",
     "generator-supported": "~0.0.1",
-    "component-validator": "^1.0.0",
-    "component-consoler": "^2.0.0",
     "graceful-fs": "^2.0.2",
-    "semver": "^2.2.1",
-    "cogent": "git://github.com/timaschew/cogent#fix-redirects",
-    "co": "^3"
+    "semver": "^2.2.1"
   },
   "devDependencies": {
     "mocha": "^1.17",
