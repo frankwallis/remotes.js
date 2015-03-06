@@ -62,7 +62,7 @@ npm-debug.log
 # Components #
 ##############
 
-/build
+/build/.module-cache/
 /components
 /landing/components
 .elasticbeanstalk/

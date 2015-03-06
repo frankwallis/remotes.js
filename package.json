@@ -28,7 +28,7 @@
     "regenerator": "0"
   },
   "scripts": {
-    "test": "NODE=gnode make test",
-    "prepublish": "make clean build"
+    "test": "NODE=gnode make test"
+    
   }
 }
